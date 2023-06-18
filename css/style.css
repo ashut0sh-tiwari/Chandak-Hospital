@@ -1490,4 +1490,8 @@ a:focus {
   opacity: 1;
 }
 
+.header-logo{
+  max-height: 125px;
+}
+
 /*# sourceMappingURL=maps/style.css.map */
